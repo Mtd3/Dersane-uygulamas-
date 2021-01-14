@@ -1,0 +1,44 @@
+.kenarlikRow {
+  border: 2px solid red;
+}
+
+.kenarlikCol {
+  border: 2px solid orange;
+}
+
+.koyu {
+  font-weight: bold;
+}
+
+.fontSize15 {
+  font-size: 15px;
+}
+
+.kenarlik {
+  border: 1px solid #e0e0ee;
+}
+
+.dolgu {
+  background: #000;
+}
+
+.saydamlik {
+  opacity: 0.6;
+}
+
+.koseYuvarlat {
+  border-radius: 10px;
+}
+
+.gizle {
+  display: none;
+}
+
+body a {
+  text-decoration: none !important;
+}
+
+#login {
+  margin-top: 50px !important;
+  margin-bottom: 50px !important;
+}
